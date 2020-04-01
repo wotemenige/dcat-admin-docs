@@ -20,7 +20,7 @@
 
 - [Laravel](https://laravel.com/)
 - [Bootstrap4](https://getbootstrap.net/)
-- jQuery3
+- jQuery3等
 
 ## 特性
 
